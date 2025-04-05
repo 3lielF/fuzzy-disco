@@ -11,9 +11,9 @@ const client = new Client({
 });
 
 const contactList = [
-    { name: 'Eliel Filho', number: '558496778305' },
+    { name: 'Eliel Filho', number: '' },
     { name: 'Novo Contato', number: '558491234567' },
-    { name: 'propesqsec', number: '5584991916095'}
+    { name: 'propesqsec', number: ''}
 ];
 
 const confirmedContactsFile = 'subscritos.json';
